@@ -1,1 +1,1 @@
-# frontend-mentor-solutions
+QR Code Solution
